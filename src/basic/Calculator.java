@@ -8,5 +8,7 @@ public class Calculator {
         Math.add(65,89,43);
         System.out.println("Multiplication");
         Math.multiply(23,8);
+        System.out.println("Multiplication");
+        Math.multiply(24,8);
     }
 }
